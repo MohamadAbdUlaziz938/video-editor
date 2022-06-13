@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="smallmind.javafx.extras" type="repository">
+    <properties maven-id="org.smallmind:smallmind-javafx-extras:1.7.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/smallmind/smallmind-javafx-extras/1.7.7/smallmind-javafx-extras-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
